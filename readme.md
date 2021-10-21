@@ -11,3 +11,7 @@ Subir cambios por primera vez al repositorio remoto
 ```bash
 git push -u origin master
 ```
+
+```bash
+git status
+```
